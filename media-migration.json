@@ -1,0 +1,425 @@
+{
+  "source_base": "https://drwm-research-demo.ruochen770.chatgpt.site/",
+  "files": [
+    {
+      "path": "public/videos/action-outcomes/gravel-action-1.mp4",
+      "size": 15279279,
+      "sha256": "16ee2215bbf32a10bf522582d7ffe85ba224c9ba0b16f461131c1c347582a90a"
+    },
+    {
+      "path": "public/videos/action-outcomes/gravel-action-1.webp",
+      "size": 435392,
+      "sha256": "c877613422c39b861a4980c9cea60f8cd60e89e69a8b7cfb6bdf93cf84ee7bb6"
+    },
+    {
+      "path": "public/videos/action-outcomes/gravel-action-2.mp4",
+      "size": 15270270,
+      "sha256": "961a4b09dbe7132e1bfadfb236b0ca759eff360d37d0530aadbbbbea52c1f4b0"
+    },
+    {
+      "path": "public/videos/action-outcomes/gravel-action-2.webp",
+      "size": 441240,
+      "sha256": "441f5e06e75ef721a01ac8f75a6c9f252b11ce11bdf104c241af1ffb277cfe30"
+    },
+    {
+      "path": "public/videos/action-outcomes/gravel-initial.webp",
+      "size": 304866,
+      "sha256": "71a2d331b74811abd91519543bf55acbe98b092d5231fffb521a5bd3d50e80e8"
+    },
+    {
+      "path": "public/videos/action-outcomes/gravel-phymap.webp",
+      "size": 315560,
+      "sha256": "425c85b09b64414eb9a65503ed8914f3c87b8287e0a95bb8c040453cde1f252d"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-action-1-v2.mp4",
+      "size": 2713315,
+      "sha256": "e68c470a801eb73eb059913d49a8f3e4972d119c01c78501e967883cf1f5bdd5"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-action-1-v2.webp",
+      "size": 256224,
+      "sha256": "20c7eb4fca14b8b2c921d539f004b197336367bd26d71da72a981430000413b4"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-action-2-v2.mp4",
+      "size": 14212725,
+      "sha256": "fa7e27dc716473e58dfbe1144052d520457fcf7121631e75a38c28860201ef22"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-action-2-v2.webp",
+      "size": 350816,
+      "sha256": "1f70d7a351813adc6f530df8ea42a6b825167b7e172fa2b424b7d40d829a87ba"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-initial.webp",
+      "size": 241724,
+      "sha256": "8f2afc716f5b2be0602bef78d073ec65974a54dc9acb1608fbb93670f18e6870"
+    },
+    {
+      "path": "public/videos/action-outcomes/mud-phymap.webp",
+      "size": 291944,
+      "sha256": "fda5a759721021265bfe0294df134586d72ef8b3e60450bca7c18fc92eccf48c"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-cosmos-3.mp4",
+      "size": 2297082,
+      "sha256": "477f1d32477eb583da7b7b7f5202a59f898bc50e31548f7c22b287bf94ed9d4d"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-cosmos-3.webp",
+      "size": 47550,
+      "sha256": "471bf6b1abd7ff6b2a7d24306e880d311f1354ba9d7475e21e3d06b5fb8ee4f7"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-drwm.mp4",
+      "size": 3815513,
+      "sha256": "8ba78d8a93766dd5942bba293cebdb6426bbc4d7606063a403a39c0d2ee3e468"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-drwm.webp",
+      "size": 42838,
+      "sha256": "dff27bd5aef856f28189963581bcde2edb84dabef7c893e3409860623c5751c0"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-lingbot-world.mp4",
+      "size": 2997396,
+      "sha256": "d660e1ef071f5baec68fc6b71d75f66343d485407db67e5565b85795a91786fc"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-lingbot-world.webp",
+      "size": 51842,
+      "sha256": "a125610dac093ddf4b92ebe6c6b322c830340996e9fcf09483f91f12fd588979"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-trajectory-bev.mp4",
+      "size": 34575,
+      "sha256": "f4d0fd20bf4c54d93e65996f4efc6b592d97f6be759579f452668c64846f93c1"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo2-trajectory-bev.webp",
+      "size": 3442,
+      "sha256": "0c1ed33e482455cb7ea3e938fb41f7b89aab2a9c63812d5bc451d2d9fc6209ff"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-cosmos-3.mp4",
+      "size": 2615324,
+      "sha256": "9b1a6e1e50e8b950ac6bc76943b65a7e54d3e5445e0bd2988ea69b7c5cf6d4dc"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-cosmos-3.webp",
+      "size": 45466,
+      "sha256": "a7dd97d53438f11bd73338a55d4628354a5ec7f16c16236c2a463f43fc6f5c15"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-drwm.mp4",
+      "size": 4737852,
+      "sha256": "9ca96021bb48601760e8df1e412e2869a7d74ba3ddafaee4d2ff16fc53c9888a"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-drwm.webp",
+      "size": 47536,
+      "sha256": "6465dd0ec70e16c304352e7a1f02823190c3482e58b14a33fcd5565d60a438a2"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-lingbot-world.mp4",
+      "size": 1756415,
+      "sha256": "641cec42d39e2d231c5f1160f7de19e2abe80aff70b123ad7a6a7b7f5df245ea"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-lingbot-world.webp",
+      "size": 52108,
+      "sha256": "33ef09d4dce97a43205a6df489ce2a7d9472bd51b8c13531333acefa4cd9c950"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-trajectory-bev.mp4",
+      "size": 42858,
+      "sha256": "36af8230f689572943c75766d294bee509cd5b251094a207775efcab71a5f25b"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo3-trajectory-bev.webp",
+      "size": 3982,
+      "sha256": "e8874e550581cc6fb2b7f58873f70657add733882ae4819e0875e0390480e0c7"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-cosmos-3.mp4",
+      "size": 2262418,
+      "sha256": "800a437bd18f9d6450321231bf02dcb5481f2b25c2fed71be31b6fce35dfb5d4"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-cosmos-3.webp",
+      "size": 46200,
+      "sha256": "dacf1fc88399fd5830cec96903b9da68172f062c97511a81d60c5d55e857827d"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-drwm.mp4",
+      "size": 5526464,
+      "sha256": "8673ebc4156400429eb7314bed3532e8607d2be6b663e13a172710cea3f14889"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-drwm.webp",
+      "size": 50360,
+      "sha256": "abec2646e24903137fe9aef9364512def858edb299c243867f6477c2443d2210"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-lingbot-world.mp4",
+      "size": 3462095,
+      "sha256": "4bdfd12f4cdb6e1b3cb2cbfc4d9d666e89f418a3729e1793289118b4c8bd9ff5"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-lingbot-world.webp",
+      "size": 48160,
+      "sha256": "904441a14da4f84b087906b7e4b8c2894e42c17e8a62c81c7e451d2a989ed4f3"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-trajectory-bev.mp4",
+      "size": 52789,
+      "sha256": "4a074bc3338706982842b32d35740bbdf053735f5fa3595599699df2f7190988"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo4-trajectory-bev.webp",
+      "size": 4600,
+      "sha256": "42a9a34f96e91b52012d336db183e2bbcc991e686edc839d58058c9330c00811"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-cosmos-3.mp4",
+      "size": 1433303,
+      "sha256": "cf63e6f45052e16cbe110cb62ae9b97516a6f11422254629a17c648f2b4381f8"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-cosmos-3.webp",
+      "size": 45396,
+      "sha256": "8b4ba5a0ba227a0962126658325c994290baf0bafeb090ab21c3325804a97db7"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-drwm.mp4",
+      "size": 2835340,
+      "sha256": "f4f35bc3c19624f69818036a0e7bdc078cb82931ac10eac29a2162dbf0c6728d"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-drwm.webp",
+      "size": 47220,
+      "sha256": "bcca334dd917efb78f66a0d7b7560c334d4f063e5aab0d592822d200bc90cbe6"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-lingbot-world.mp4",
+      "size": 3535176,
+      "sha256": "45bb2f7c613de23a0bfed010288c511c0c121cbf27599e319afa0d6e4b6db1b4"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-lingbot-world.webp",
+      "size": 35718,
+      "sha256": "99b4515ff401feedb20eca9d02d57ac77ac2258e36f5f84d813a874eccad53eb"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-trajectory-bev.mp4",
+      "size": 27295,
+      "sha256": "33d4d97789ca50b4f99fb9bc9caa2761795fdd2225beed6bcfc29d1cea4562bb"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo5-trajectory-bev.webp",
+      "size": 4062,
+      "sha256": "c82f72360fe01279b336cb5f2db47c02e7c15bee30f2d4292addbf8f3fbac30c"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-cosmos-3.mp4",
+      "size": 2742972,
+      "sha256": "850d8f9a37ea95d5e44e11cce7adc76496acca7ededa2e07c654dddf0cf9aa21"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-cosmos-3.webp",
+      "size": 59100,
+      "sha256": "b1481d5e806f7697654d82320fa314c04e68ea04fc2ab2c784a9a23435636862"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-drwm.mp4",
+      "size": 4632923,
+      "sha256": "6d274686f5b4a4f9ad2462a0464cca6c5431c7e1b64ae050f07fcc00e2632e87"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-drwm.webp",
+      "size": 61850,
+      "sha256": "08ce2f820cdf25f9e5f06a980624ffc61f46641ca1a39a5fb81956349808f41b"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-lingbot-world.mp4",
+      "size": 4450690,
+      "sha256": "5a7b897123005a6313448888fda5f9c987d97467b205808cf55aef54143cb077"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-lingbot-world.webp",
+      "size": 55482,
+      "sha256": "6642aed8179d4e1986076ed17223353d6c626001ca4e8473a12303dbfb319de9"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-trajectory-bev.mp4",
+      "size": 28585,
+      "sha256": "ba2192a110c6ef4194ebdf0556685f736ea04d8da9029b82b69b493dbca93d3d"
+    },
+    {
+      "path": "public/videos/model-comparisons/demo6-trajectory-bev.webp",
+      "size": 3610,
+      "sha256": "944aa7f94ba4f9d3144296ffe159bd6b659e1db024a4d4ed9078aa3726d5353c"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-cobblestone.mp4",
+      "size": 4686966,
+      "sha256": "d75698fbddc1af0e9bdf8ab4510a8f786311f78a00f90c1a8e0d73d890e11226"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-cobblestone.webp",
+      "size": 84582,
+      "sha256": "b2490080e0e6a7a112bfa7819eaf71b2956042d01eb85dbafb6be2467fa44c52"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-mud.mp4",
+      "size": 3200266,
+      "sha256": "e8d665169693429c03e6662f65eae5feb1264c390ef408888634b30b8db5439a"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-mud.webp",
+      "size": 80740,
+      "sha256": "756e86396ac57376f31d7f511ceeb962123334f7b17dbe45324fba7ac9c2a2ba"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-normal.mp4",
+      "size": 3692728,
+      "sha256": "ce09490417800c0ea8eddb20deef98e0ba6ba031f3759a3a4c63e1844593bc82"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-normal.webp",
+      "size": 78180,
+      "sha256": "d4875ed935be0f369a9bd72758fdcd0ecdd9d0595eb676b0bb7b3416d62646ea"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-snow.mp4",
+      "size": 2900108,
+      "sha256": "5b0e0db251463245cd1bf99d1c531d9b7d14318d509ce845fbc12c9d8271a4ca"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo1-snow.webp",
+      "size": 145646,
+      "sha256": "fc758ca99e5954508ed32a490b2ddaf3a8189bce05ec0a5075ee51f9c6ee0d85"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-cobblestone.mp4",
+      "size": 5589753,
+      "sha256": "c32498dc912cc800de28a1083bfecd6ab8f45f25945ab4f5e98ac10b947d214b"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-cobblestone.webp",
+      "size": 98982,
+      "sha256": "bfa96e3cc4fabb62ee4e3e5721b35395712da19ade37f6fd8be782bde2f76b30"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-mud.mp4",
+      "size": 3781716,
+      "sha256": "5bc0d14aee8b2e729fb0c3839b865cbdbb9211eacc611478cd65643883c2e74a"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-mud.webp",
+      "size": 103432,
+      "sha256": "217a4bd7680c7f05e7305a0f41e8ec1525595367073fe127ed252055c70198f0"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-normal.mp4",
+      "size": 5240245,
+      "sha256": "9443ac1ae5e4ab2c47aa6ce91108038968387421999984177fec8958471f1a43"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-normal.webp",
+      "size": 90692,
+      "sha256": "217dfc7a10394e36d22b3eba9c3960f34c3f48baaa636694184146458c28500f"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-snow.mp4",
+      "size": 4066780,
+      "sha256": "d00fc16800c613a319cfab94cb8f87493337836a4da324c42383d447f2dbdd4b"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo2-snow.webp",
+      "size": 156218,
+      "sha256": "7599c5e879c1bc23b299d61d30d7dc3a3139730e4743fdce372a91c656987077"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-cobblestone.mp4",
+      "size": 5534578,
+      "sha256": "13b5af76f7290274fcc755a325ee31d599b358f6abd4118df3ebaa108b3a6a94"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-cobblestone.webp",
+      "size": 87938,
+      "sha256": "3993175ebe8b30e261594cd67dbc8e732046e0410d007a5093eaf5e82ccae8a8"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-mud.mp4",
+      "size": 2893671,
+      "sha256": "815fd1b44735e9ca2acbb1f77fdc61d707f5dd2fb68253e1d024a0729edbf70f"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-mud.webp",
+      "size": 84584,
+      "sha256": "561857590a52f430aab0dd183fadb29b17cdd627fecfca07249e5ed5807d247c"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-normal.mp4",
+      "size": 4786508,
+      "sha256": "630d38657f208b8b285ffb5405b4a9aec6a8862ea81586cbac648260041f30af"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-normal.webp",
+      "size": 78940,
+      "sha256": "d49ddb2d98d8f31d1b1367a1cfac09b861e78c26cd2ec230e77d6609645de4a7"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-snow.mp4",
+      "size": 3834363,
+      "sha256": "1d8346ab468df96a3d56f6ad9127c78f346c4d0581a1e5959e60caf8f545098e"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo3-snow.webp",
+      "size": 159278,
+      "sha256": "22801d5e67935776854445413444f19e4bc74ec51cdad0f911ad7b89d24cc6f8"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-cobblestone.mp4",
+      "size": 4929907,
+      "sha256": "d3aa69e7fd66958eb14e1ed85ffac810a9c5d849e1ac56db914ddc42a5368745"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-cobblestone.webp",
+      "size": 108038,
+      "sha256": "2fc34dfcaeda948b855fdb1358a3f27f13470b138c01facc3642b3497304c8c3"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-mud.mp4",
+      "size": 4155189,
+      "sha256": "eaa00f9334ad103e230b66f667b739536ed0abb61e290190775f50b1f4ac67cb"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-mud.webp",
+      "size": 103796,
+      "sha256": "a21101eda24f5bc21a4468281a920b8a6ae1519309ac50c9649e0fa79050ffe7"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-normal.mp4",
+      "size": 3550940,
+      "sha256": "367f77756e0618ec86f80fe148bdeca4fb2b118ea3d1a1d3c9d448cee6848597"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-normal.webp",
+      "size": 81442,
+      "sha256": "105c6b94eec73638444f32f3933d9b523c307bcf112e06bedb05efe1cbe801ea"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-snow.mp4",
+      "size": 5851243,
+      "sha256": "9d0d1563b2787aafabc3d0285add9c7870e36e3dfa1978a380e40747c5ed0387"
+    },
+    {
+      "path": "public/videos/terrain-scenes/demo4-snow.webp",
+      "size": 214716,
+      "sha256": "82053d044ce8713996b9d1bb34588b23d9b7cbc4f618b3183f0ae2e0a550a77d"
+    }
+  ]
+}
