@@ -1,0 +1,680 @@
+{
+  "project": "DR-WM",
+  "source": "User-supplied manuscript figures and research videos",
+  "figures": [
+    {
+      "filename": "low-friction-snow.jpeg",
+      "document": "main(6).pdf",
+      "location": "Figure 1, low-friction illustration"
+    },
+    {
+      "filename": "normal-friction-grass.jpeg",
+      "document": "main(6).pdf",
+      "location": "Figure 1, normal-friction illustration"
+    },
+    {
+      "filename": "drwm-overview.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 1, complete overview"
+    },
+    {
+      "filename": "snow-comparison.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 3, snowy uphill comparison"
+    },
+    {
+      "filename": "terrain-results.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, four terrain conditions"
+    },
+    {
+      "filename": "robot-dataset.webp",
+      "document": "appendix(2).pdf",
+      "location": "Supplementary Figure 1, robot data collection"
+    },
+    {
+      "filename": "normal-sequence.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal frame strip"
+    },
+    {
+      "filename": "mud-sequence.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud frame strip"
+    },
+    {
+      "filename": "cobblestone-sequence.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone frame strip"
+    },
+    {
+      "filename": "snow-sequence.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow frame strip"
+    },
+    {
+      "filename": "terrain-normal-input.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal, initial frame"
+    },
+    {
+      "filename": "terrain-normal-future-1.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal, future frame 1"
+    },
+    {
+      "filename": "terrain-normal-future-2.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal, future frame 2"
+    },
+    {
+      "filename": "terrain-normal-future-3.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal, future frame 3"
+    },
+    {
+      "filename": "terrain-normal-future-4.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, normal, future frame 4"
+    },
+    {
+      "filename": "terrain-mud-input.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud, initial frame"
+    },
+    {
+      "filename": "terrain-mud-future-1.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud, future frame 1"
+    },
+    {
+      "filename": "terrain-mud-future-2.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud, future frame 2"
+    },
+    {
+      "filename": "terrain-mud-future-3.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud, future frame 3"
+    },
+    {
+      "filename": "terrain-mud-future-4.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, mud, future frame 4"
+    },
+    {
+      "filename": "terrain-cobblestone-input.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone, initial frame"
+    },
+    {
+      "filename": "terrain-cobblestone-future-1.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone, future frame 1"
+    },
+    {
+      "filename": "terrain-cobblestone-future-2.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone, future frame 2"
+    },
+    {
+      "filename": "terrain-cobblestone-future-3.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone, future frame 3"
+    },
+    {
+      "filename": "terrain-cobblestone-future-4.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, cobblestone, future frame 4"
+    },
+    {
+      "filename": "terrain-snow-input.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow, initial frame"
+    },
+    {
+      "filename": "terrain-snow-future-1.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow, future frame 1"
+    },
+    {
+      "filename": "terrain-snow-future-2.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow, future frame 2"
+    },
+    {
+      "filename": "terrain-snow-future-3.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow, future frame 3"
+    },
+    {
+      "filename": "terrain-snow-future-4.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 4, snow, future frame 4"
+    },
+    {
+      "filename": "comparison-cosmos.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 3, Cosmos 3 final frame"
+    },
+    {
+      "filename": "comparison-lingbot.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 3, LingBot-World final frame"
+    },
+    {
+      "filename": "comparison-drwm.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 3, DR-WM final frame"
+    },
+    {
+      "filename": "comparison-trajectories.webp",
+      "document": "main(6).pdf",
+      "location": "Figure 3, bird’s-eye trajectory plot"
+    }
+  ],
+  "videos": [
+    {
+      "scene": "demo1",
+      "terrain": "normal",
+      "source_zip_entry": "or_fix/compare/demo1/or/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "41b3a1203691207dc1ac4c323b98eee37daf6c4875af2491b67bd61f9047c07c",
+      "web_video": "public/videos/terrain-scenes/demo1-normal.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo1-normal.webp",
+      "web_sha256": "1cf01b31e68caa415aca23cf3d5ca62b30d0a0d9b35620742d4080313c725b85",
+      "web_ssim_vs_previous_web_copy": 0.978242
+    },
+    {
+      "scene": "demo1",
+      "terrain": "mud",
+      "source_zip_entry": "or_fix/compare/demo1/muddy/pipeline_removehuman_4s_material_stress_v2_mpm_soft_depth006_E60k180k_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "3a9e01e3685638b1f358d8287639de74ea594d930cf210b47c4a8e6d6cbcccd4",
+      "web_video": "public/videos/terrain-scenes/demo1-mud.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo1-mud.webp",
+      "web_sha256": "001b66bda80d2e057fb9d65e7cf286fe150b3c078ce22ccabd9972455b527688",
+      "web_ssim_vs_previous_web_copy": 0.98296
+    },
+    {
+      "scene": "demo1",
+      "terrain": "cobblestone",
+      "source_zip_entry": "or_fix/compare/demo1/cob/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "870cc52bd81aeaf48a9d198a25ffdc5ec5aa67ea79f2bbd01ecddecbd06143cc",
+      "web_video": "public/videos/terrain-scenes/demo1-cobblestone.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo1-cobblestone.webp",
+      "web_sha256": "787a0b143b36001a6f82458285f1df4b78f8fe31745996bb6430369570720a75",
+      "web_ssim_vs_previous_web_copy": 0.983425
+    },
+    {
+      "scene": "demo1",
+      "terrain": "snow",
+      "source_zip_entry": "or_fix/compare/demo1/snow/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "817acb07df9b26eb23c5b96cf43a70fae845ce40a2ccc4c38f8b50e6d349a227",
+      "web_video": "public/videos/terrain-scenes/demo1-snow.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo1-snow.webp",
+      "web_sha256": "46c9c0e72985324fd0267c4244590d60691e5f3548aab3eddf7f13eacb7a708f",
+      "web_ssim_vs_previous_web_copy": 0.981116
+    },
+    {
+      "scene": "demo2",
+      "terrain": "normal",
+      "source_zip_entry": "or_fix/compare/demo2/or/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "20deb06157ba4deabc56cb57aed6bae8cef372b2269ccb986b985b57e195b0ea",
+      "web_video": "public/videos/terrain-scenes/demo2-normal.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo2-normal.webp",
+      "web_sha256": "53486d23318be76125e49a381f8b4dca143720b6aca0ef3d17671fe12cccf0fb",
+      "web_ssim_vs_previous_web_copy": 0.976164
+    },
+    {
+      "scene": "demo2",
+      "terrain": "mud",
+      "source_zip_entry": "or_fix/compare/demo2/muddy/pipeline_removehuman_4s_material_stress_v2_mpm_soft_depth006_E60k180k_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "83fc8c02524db992478ee7cd9788f5f9e47cac20cc6da5e3f5cb049937f004ef",
+      "web_video": "public/videos/terrain-scenes/demo2-mud.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo2-mud.webp",
+      "web_sha256": "fba9836c84df546612e1657c905a11fbd3241e692d9272437cca224aed88553b",
+      "web_ssim_vs_previous_web_copy": 0.982395
+    },
+    {
+      "scene": "demo2",
+      "terrain": "cobblestone",
+      "source_zip_entry": "or_fix/compare/demo2/cob/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "593cddbf2979cd66f0245c7070d1f9c6661b145c4a3c07e78d9a32d6e18d302f",
+      "web_video": "public/videos/terrain-scenes/demo2-cobblestone.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo2-cobblestone.webp",
+      "web_sha256": "67bc66c2c777865a04637e30e841de3dcaf821465b8edc54f6ce7bd9e2e7cdb4",
+      "web_ssim_vs_previous_web_copy": 0.983362
+    },
+    {
+      "scene": "demo2",
+      "terrain": "snow",
+      "source_zip_entry": "or_fix/compare/demo2/snow/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "fe9ba6ae96817390b15d7a5634980f99bf9bc116d576b9848b00c4a6a04fd7fc",
+      "web_video": "public/videos/terrain-scenes/demo2-snow.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo2-snow.webp",
+      "web_sha256": "b5486112474153b55299e386fe33755725e72d24f3dd5402da7b352c1c9ec3c9",
+      "web_ssim_vs_previous_web_copy": 0.984539
+    },
+    {
+      "scene": "demo3",
+      "terrain": "normal",
+      "source_zip_entry": "or_fix/compare/demo3/or/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "6de1b5f0c76f4cef00171921787456b49c3362cbe59af3e3e5e3085cb3b43472",
+      "web_video": "public/videos/terrain-scenes/demo3-normal.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo3-normal.webp",
+      "web_sha256": "4b7d14835ddc0ff94dc51473cf9ddfd2c32a3b3dbff582cc32ddd1bc9283b4ea",
+      "web_ssim_vs_previous_web_copy": 0.977103
+    },
+    {
+      "scene": "demo3",
+      "terrain": "mud",
+      "source_zip_entry": "or_fix/compare/demo3/muddy/pipeline_removehuman_4s_material_stress_v2_mpm_soft_depth006_E60k180k_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "477b73d818bc699c88721bd5218c5f1448660e5c428b952c22ff52b9de986bda",
+      "web_video": "public/videos/terrain-scenes/demo3-mud.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo3-mud.webp",
+      "web_sha256": "b84a502e2abee635b6533bc79d2c5694b5d8c31a484392833cae33ac295342e7",
+      "web_ssim_vs_previous_web_copy": 0.982964
+    },
+    {
+      "scene": "demo3",
+      "terrain": "cobblestone",
+      "source_zip_entry": "or_fix/compare/demo3/cob/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "8d276bc92e003b335e31cea052734e989ae8dfe600cd34714ddc269196ab7592",
+      "web_video": "public/videos/terrain-scenes/demo3-cobblestone.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo3-cobblestone.webp",
+      "web_sha256": "d7e433428a6852b026d64736df2a17749c1539e11a2081441185767a0047a9ca",
+      "web_ssim_vs_previous_web_copy": 0.979364
+    },
+    {
+      "scene": "demo3",
+      "terrain": "snow",
+      "source_zip_entry": "or_fix/compare/demo3/snow/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "8f381056bdc0ee0baffb6835e474fcdd087b4717af735748f028fe436a409ec9",
+      "web_video": "public/videos/terrain-scenes/demo3-snow.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo3-snow.webp",
+      "web_sha256": "42aad935e942133a3b61035fb279ee43e526bfe7fb42c95efea4b356e6156b07",
+      "web_ssim_vs_previous_web_copy": 0.976831
+    },
+    {
+      "scene": "demo4",
+      "terrain": "normal",
+      "source_zip_entry": "or_fix/compare/demo4/or/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "3e728c1016f617944d7594e1b1873d46ad59503047aa2e42f4db2e751d5e0f0f",
+      "web_video": "public/videos/terrain-scenes/demo4-normal.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo4-normal.webp",
+      "web_sha256": "97accb02485a3411b92ce27be832bf3b28d69d266a2e2c4a579777847ab60376",
+      "web_ssim_vs_previous_web_copy": 0.981625
+    },
+    {
+      "scene": "demo4",
+      "terrain": "mud",
+      "source_zip_entry": "or_fix/compare/demo4/muddy/pipeline_removehuman_4s_material_stress_v2_mpm_soft_depth006_E60k180k_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "77767242a5abae38ade0a3c66abfa0be4717bc5eea1c915dacaf9b5a94bf99c6",
+      "web_video": "public/videos/terrain-scenes/demo4-mud.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo4-mud.webp",
+      "web_sha256": "0672c0229c958ba43fdecc68b0c9229ace72a15c8d393965b8003385fe3537af",
+      "web_ssim_vs_previous_web_copy": 0.980541
+    },
+    {
+      "scene": "demo4",
+      "terrain": "cobblestone",
+      "source_zip_entry": "or_fix/compare/demo4/cob/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "c903bc6ce4e78567c4b78277f729162fc1ae856af5a9412f9e1b4fd15b6941d8",
+      "web_video": "public/videos/terrain-scenes/demo4-cobblestone.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo4-cobblestone.webp",
+      "web_sha256": "6ad85047253106320aab8004ccac750a78f7fa3da39a4016ac8a9586c3bdb37f",
+      "web_ssim_vs_previous_web_copy": 0.98224
+    },
+    {
+      "scene": "demo4",
+      "terrain": "snow",
+      "source_zip_entry": "or_fix/compare/demo4/snow/pipeline_removehuman_4s_material_stress_v2/chunk_01/rollout/prediction.mp4",
+      "source_sha256": "4756b59887318c83e7e19ccb6d86707986076efdc707658398de758e95f2b143",
+      "web_video": "public/videos/terrain-scenes/demo4-snow.mp4",
+      "web_poster": "public/videos/terrain-scenes/demo4-snow.webp",
+      "web_sha256": "8a3b438ff4dbd9d8dc00f4c64d9f2b050bf583cdb41b8b19705e6abf23a0cd75",
+      "web_ssim_vs_previous_web_copy": 0.982737
+    }
+  ],
+  "video_processing": {
+    "source_archive": "or_fix.zip",
+    "resolution": [
+      1280,
+      704
+    ],
+    "fps": 10,
+    "frames": 60,
+    "duration_seconds": 6,
+    "encoding": "H.264 / yuv420p / CRF 23 / medium / faststart",
+    "posters": "First frame of the corresponding original video, resized to 640 px wide and encoded as WebP",
+    "content_changes": "No crop, retiming, frame interpolation, or generated content. Web copies are re-encoded at CRF 23 for efficient streaming."
+  },
+  "model_comparison_videos": [
+    {
+      "scene": "demo2",
+      "model": "drwm",
+      "source_zip_entry": "ortherWM/demo2/drwm/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo2-drwm.mp4",
+      "web_poster": "public/videos/model-comparisons/demo2-drwm.webp",
+      "sha256": "7f7f082639112dd10f4acc857b38398abd58a525594ecf56ef88b3059f6c308f",
+      "codec": "h264",
+      "resolution": [
+        1280,
+        704
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo2",
+      "model": "cosmos3",
+      "source_zip_entry": "ortherWM/demo2/cosmos3/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo2-cosmos-3.mp4",
+      "web_poster": "public/videos/model-comparisons/demo2-cosmos-3.webp",
+      "sha256": "1686fc8d2bf16a1de59df24b98de91bd65a26347d9a1f24160e4472693cbeba2",
+      "codec": "h264",
+      "resolution": [
+        832,
+        448
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo2",
+      "model": "lingbot-world",
+      "source_zip_entry": "ortherWM/demo2/lingbot-world/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo2-lingbot-world.mp4",
+      "web_poster": "public/videos/model-comparisons/demo2-lingbot-world.webp",
+      "sha256": "4840c7f691ec98953d84ec68c8fb76147d9e00f9b04667dbc09d7bc42f814db5",
+      "codec": "h264",
+      "resolution": [
+        848,
+        464
+      ],
+      "fps": "16/1",
+      "frames": 128,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo2",
+      "model": "trajectory",
+      "source_zip_entry": "ortherWM/demo2/trajectory_bev.mp4",
+      "web_video": "public/videos/model-comparisons/demo2-trajectory-bev.mp4",
+      "web_poster": "public/videos/model-comparisons/demo2-trajectory-bev.webp",
+      "sha256": "f4d0fd20bf4c54d93e65996f4efc6b592d97f6be759579f452668c64846f93c1",
+      "codec": "h264",
+      "resolution": [
+        640,
+        352
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo3",
+      "model": "drwm",
+      "source_zip_entry": "ortherWM/demo3/drwm/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo3-drwm.mp4",
+      "web_poster": "public/videos/model-comparisons/demo3-drwm.webp",
+      "sha256": "daa1b85575abdf692159cda64cf90ed94e220365d260cb76af47472fddf01343",
+      "codec": "h264",
+      "resolution": [
+        1280,
+        704
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo3",
+      "model": "cosmos3",
+      "source_zip_entry": "ortherWM/demo3/cosmos3/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo3-cosmos-3.mp4",
+      "web_poster": "public/videos/model-comparisons/demo3-cosmos-3.webp",
+      "sha256": "b8ce7667688c4c9223182d8d75e1c348631b7123b0015ce1caa6766c976fbdac",
+      "codec": "h264",
+      "resolution": [
+        832,
+        448
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo3",
+      "model": "lingbot-world",
+      "source_zip_entry": "ortherWM/demo3/lingbot-world/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo3-lingbot-world.mp4",
+      "web_poster": "public/videos/model-comparisons/demo3-lingbot-world.webp",
+      "sha256": "6320ad1aa902af6ecb2a2f3764d6aebcf487cc577a0e8f233e51e7dbe111719e",
+      "codec": "h264",
+      "resolution": [
+        848,
+        464
+      ],
+      "fps": "16/1",
+      "frames": 128,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo3",
+      "model": "trajectory",
+      "source_zip_entry": "ortherWM/demo3/trajectory_bev.mp4",
+      "web_video": "public/videos/model-comparisons/demo3-trajectory-bev.mp4",
+      "web_poster": "public/videos/model-comparisons/demo3-trajectory-bev.webp",
+      "sha256": "36af8230f689572943c75766d294bee509cd5b251094a207775efcab71a5f25b",
+      "codec": "h264",
+      "resolution": [
+        640,
+        352
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo4",
+      "model": "drwm",
+      "source_zip_entry": "ortherWM/demo4/drwm/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo4-drwm.mp4",
+      "web_poster": "public/videos/model-comparisons/demo4-drwm.webp",
+      "sha256": "b4adb5ce1e01482a4ae99d087dfcc699208f831ce20811dd4c000dbe23e2c19c",
+      "codec": "h264",
+      "resolution": [
+        1280,
+        704
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo4",
+      "model": "cosmos3",
+      "source_zip_entry": "ortherWM/demo4/cosmos3/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo4-cosmos-3.mp4",
+      "web_poster": "public/videos/model-comparisons/demo4-cosmos-3.webp",
+      "sha256": "279d74251770dc6a9a20e7838cf9d015a109965419509b0992d0c33456e0afdf",
+      "codec": "h264",
+      "resolution": [
+        832,
+        448
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo4",
+      "model": "lingbot-world",
+      "source_zip_entry": "ortherWM/demo4/lingbot-world/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo4-lingbot-world.mp4",
+      "web_poster": "public/videos/model-comparisons/demo4-lingbot-world.webp",
+      "sha256": "e7008bbb3150658d943ed0cbf94e7a645b3ed3b26d62e2e0fd38d957652c61c1",
+      "codec": "h264",
+      "resolution": [
+        848,
+        464
+      ],
+      "fps": "16/1",
+      "frames": 128,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo4",
+      "model": "trajectory",
+      "source_zip_entry": "ortherWM/demo4/trajectory_bev.mp4",
+      "web_video": "public/videos/model-comparisons/demo4-trajectory-bev.mp4",
+      "web_poster": "public/videos/model-comparisons/demo4-trajectory-bev.webp",
+      "sha256": "4a074bc3338706982842b32d35740bbdf053735f5fa3595599699df2f7190988",
+      "codec": "h264",
+      "resolution": [
+        640,
+        352
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo5",
+      "model": "drwm",
+      "source_zip_entry": "ortherWM/demo5/drwm/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo5-drwm.mp4",
+      "web_poster": "public/videos/model-comparisons/demo5-drwm.webp",
+      "sha256": "746d978b773a3c31fb5d35abd695f62cc0f65795632cff28a463a79e304b4b5e",
+      "codec": "h264",
+      "resolution": [
+        1280,
+        704
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo5",
+      "model": "cosmos3",
+      "source_zip_entry": "ortherWM/demo5/cosmos3/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo5-cosmos-3.mp4",
+      "web_poster": "public/videos/model-comparisons/demo5-cosmos-3.webp",
+      "sha256": "ec6f27352c09597bad22dc1041cfc3946633da68e35e3073cf96c7b0c23f2404",
+      "codec": "h264",
+      "resolution": [
+        832,
+        448
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo5",
+      "model": "lingbot-world",
+      "source_zip_entry": "ortherWM/demo5/lingbot-world/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo5-lingbot-world.mp4",
+      "web_poster": "public/videos/model-comparisons/demo5-lingbot-world.webp",
+      "sha256": "53d7b25765952f36f60e2395f4cb2ea73add5ba13a438061c02a2d771f58c03d",
+      "codec": "h264",
+      "resolution": [
+        848,
+        464
+      ],
+      "fps": "16/1",
+      "frames": 128,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo5",
+      "model": "trajectory",
+      "source_zip_entry": "ortherWM/demo5/trajectory_bev.mp4",
+      "web_video": "public/videos/model-comparisons/demo5-trajectory-bev.mp4",
+      "web_poster": "public/videos/model-comparisons/demo5-trajectory-bev.webp",
+      "sha256": "33d4d97789ca50b4f99fb9bc9caa2761795fdd2225beed6bcfc29d1cea4562bb",
+      "codec": "h264",
+      "resolution": [
+        640,
+        352
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo6",
+      "model": "drwm",
+      "source_zip_entry": "ortherWM/demo6/drwm/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo6-drwm.mp4",
+      "web_poster": "public/videos/model-comparisons/demo6-drwm.webp",
+      "sha256": "7cdd57e5e39ebf1df919b8092f822f6e7446c9ecc755c00485be31501e30f757",
+      "codec": "h264",
+      "resolution": [
+        1280,
+        704
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo6",
+      "model": "cosmos3",
+      "source_zip_entry": "ortherWM/demo6/cosmos3/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo6-cosmos-3.mp4",
+      "web_poster": "public/videos/model-comparisons/demo6-cosmos-3.webp",
+      "sha256": "b63c715b8e9b81d031b1dfc7bb7ef2b01fe5917675e31efab4548417a42fc9f5",
+      "codec": "h264",
+      "resolution": [
+        832,
+        448
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo6",
+      "model": "lingbot-world",
+      "source_zip_entry": "ortherWM/demo6/lingbot-world/prediction.mp4",
+      "web_video": "public/videos/model-comparisons/demo6-lingbot-world.mp4",
+      "web_poster": "public/videos/model-comparisons/demo6-lingbot-world.webp",
+      "sha256": "30ddae2ba945cd6450c2e0f97c8a3f2c45341fb5039d55defc5439b8433f5eeb",
+      "codec": "h264",
+      "resolution": [
+        848,
+        464
+      ],
+      "fps": "16/1",
+      "frames": 128,
+      "duration_seconds": 8.0
+    },
+    {
+      "scene": "demo6",
+      "model": "trajectory",
+      "source_zip_entry": "ortherWM/demo6/trajectory_bev.mp4",
+      "web_video": "public/videos/model-comparisons/demo6-trajectory-bev.mp4",
+      "web_poster": "public/videos/model-comparisons/demo6-trajectory-bev.webp",
+      "sha256": "ba2192a110c6ef4194ebdf0556685f736ea04d8da9029b82b69b493dbca93d3d",
+      "codec": "h264",
+      "resolution": [
+        640,
+        352
+      ],
+      "fps": "10/1",
+      "frames": 80,
+      "duration_seconds": 8.0
+    }
+  ],
+  "model_comparison_video_processing": {
+    "source_archive": "ortherWM.zip",
+    "layout": "Cosmos 3, LingBot-World, DR-WM, Trajectory (Bird’s-eye View)",
+    "content_changes": "Uploaded MP4 bytes are preserved; no crop, transcode, retiming, interpolation, or generated content.",
+    "posters": "Frame at 0.2 seconds, resized to 640 px wide and encoded as WebP.",
+    "trajectory_label_note": "The archive does not identify the BEV video as belonging to one specific model, so the page uses a neutral label."
+  }
+}

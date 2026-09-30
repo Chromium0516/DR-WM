@@ -1,0 +1,27 @@
+{
+  "source": "User-supplied demo.zip and ef7e563320737b51e8843d362a8a108b.mp4 replacement (2026-09-30)",
+  "processing": {
+    "video": "Original demo.zip videos: H.264 CRF 23, yuv420p, original resolution, frame rate, frame count and duration; faststart. The replacement Mud Action 01 is remuxed with video stream copy. No cropping, speed changes or interpolation.",
+    "images": "WebP conversions of supplied PNGs and extracted first video frames"
+  },
+  "scenes": [
+    {
+      "id": "gravel",
+      "initial": "stone/gravel_firstframe.png",
+      "phymap": "stone/gravel_phymap_firstframe.png",
+      "actions": [
+        { "id": 1, "label": "Gravel route", "source": "stone/gravel_left_gravel_12s_720p.mp4", "output": "public/videos/action-outcomes/gravel-action-1.mp4" },
+        { "id": 2, "label": "Dirt route", "source": "stone/gravel_right_dirt_12s_720p.mp4", "output": "public/videos/action-outcomes/gravel-action-2.mp4" }
+      ]
+    },
+    {
+      "id": "mud",
+      "initial": "mud/mud_firstframe.png",
+      "phymap": "mud/mud_phymap_firstframe.png",
+      "actions": [
+        { "id": 1, "label": "Mud route", "source": "ef7e563320737b51e8843d362a8a108b.mp4", "output": "public/videos/action-outcomes/mud-action-1-v2.mp4", "processing": "H.264 stream copy with faststart" },
+        { "id": 2, "label": "Dirt route", "source": "mud/mud_mpm_retained_right_prediction.mp4", "previous_role": "Mud route (Action 01)", "output": "public/videos/action-outcomes/mud-action-2-v2.mp4", "assignment": "Moved from Mud route to Dirt route at the user's request" }
+      ]
+    }
+  ]
+}
