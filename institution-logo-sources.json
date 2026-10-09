@@ -3,10 +3,11 @@
   "display_order": ["DEEP Robotics", "Zhejiang University", "MIT", "Beijing Institute of Technology"],
   "logos": [
     {
-      "file": "src/assets/institutions/deep-robotics-header.png",
-      "source_page": "https://www.deeprobotics.cn/en/",
-      "source_asset": "https://www.deeprobotics.cn/public/static/robot/images/logo_.png",
-      "note": "Official website header image, original bytes."
+      "file": "src/assets/institutions/deep-robotics-user.webp",
+      "source_asset": "https://th.bing.com/th/id/OIP.VF1iFVg90PMhrYRgGolZxwHaE8?w=247&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "source_dimensions": [247, 180],
+      "display_crop": { "x": 59, "y": 68, "width": 134, "height": 50 },
+      "note": "User-selected logo, original bytes. CSS crops the surrounding blank margins for display without redrawing or changing the lettering."
     },
     {
       "file": "src/assets/institutions/zhejiang-university.png",
