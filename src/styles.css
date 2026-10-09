@@ -404,9 +404,11 @@ a.resource-pill:hover { background: #24242d; }
   .abstract-section p { text-align: left; }
   .media-caption { font-size: 14px; }
 }
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   .institution-logos { grid-template-columns: repeat(2, minmax(0, 170px)); gap: 6px 24px; }
   .institution-strip { margin-bottom: 24px; }
+}
+@media (max-width: 500px) {
   .teaser-pair { grid-template-columns: 1fr; gap: 17px; }
   .teaser-pair figcaption { flex-direction: row; gap: 8px; padding-top: 8px; }
   .observation-pair { grid-template-columns: 1fr; gap: 27px; }
