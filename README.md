@@ -42,6 +42,7 @@ npm run build
 
 | 修改目标 | 文件 / 配置 |
 | --- | --- |
+| 顶部单位 logo | `src/components/InstitutionLogos.tsx` 和 `src/assets/institutions/`；顺序为 DEEP Robotics、浙江大学、MIT、北京理工大学；官方来源见 `institution-logo-sources.json` |
 | 作者名称 | `src/content/site.ts` 的 `authors`；正式发布时同步调整 `src/Home.tsx` 中的匿名审稿说明 |
 | Paper / Supplementary / Code / Dataset | `src/content/site.ts` 的 `resources`，将对应 `url: null` 改为真实地址 |
 | 四个场景 × 四类地形视频 | `public/videos/terrain-scenes/demo{1–4}-{normal,mud,cobblestone,snow}.mp4`；同名 `.webp` 为视频首帧封面；展示布局和场景标签见 `src/components/TerrainVideoGallery.tsx` |

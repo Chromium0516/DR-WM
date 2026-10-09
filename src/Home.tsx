@@ -4,6 +4,7 @@ import { TerrainVideoGallery } from "@/components/TerrainVideoGallery";
 import { ModelComparisonGallery } from "@/components/ModelComparisonGallery";
 import { ActionOutcomeGallery } from "@/components/ActionOutcomeGallery";
 import { ResultTables } from "@/components/ResultTables";
+import { InstitutionLogos } from "@/components/InstitutionLogos";
 import { authors, resources } from "@/content/site";
 import snowHero from "@/assets/low-friction-snow.jpeg";
 import grassHero from "@/assets/normal-friction-grass.jpeg";
@@ -35,6 +36,7 @@ export default function Home() {
     <div className="publication-page">
       <a className="skip-link" href="#results">Skip to results</a>
       <header className="publication-header">
+        <InstitutionLogos />
         <h1><span className="project-name">DR-WM:</span> From Pixels to<br className="title-break" /> Executable Physics</h1>
         <p className="publication-subtitle">Behavior-Grounded World Models for<br className="subtitle-break" /> Embodied Action Consequence Prediction</p>
         <p className="publication-authors">{authors}</p>

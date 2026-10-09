@@ -1,0 +1,30 @@
+{
+  "retrieved_on": "2026-10-09",
+  "display_order": ["DEEP Robotics", "Zhejiang University", "MIT", "Beijing Institute of Technology"],
+  "logos": [
+    {
+      "file": "src/assets/institutions/deep-robotics-header.png",
+      "source_page": "https://www.deeprobotics.cn/en/",
+      "source_asset": "https://www.deeprobotics.cn/public/static/robot/images/logo_.png",
+      "note": "Official website header image, original bytes."
+    },
+    {
+      "file": "src/assets/institutions/zhejiang-university.png",
+      "source_page": "https://www.zju.edu.cn/572/main.htm",
+      "source_asset": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/05966b26-ab45-470d-94c1-99b1e02d12f4.png",
+      "note": "Official university logo download, original bytes."
+    },
+    {
+      "file": "src/assets/institutions/mit.svg",
+      "source_page": "https://www.mit.edu/",
+      "color_reference": "https://brand.mit.edu/sites/default/files/styles/tile_narrow/public/2023-08/logo-colors-mit-red.png?itok=k08Ir4pB",
+      "note": "Exact logo path and viewBox from the official homepage footer SVG; fill matches the official MIT red logo example (#6b1218)."
+    },
+    {
+      "file": "src/assets/institutions/beijing-institute-of-technology.svg",
+      "source_page": "https://www.bit.edu.cn/",
+      "source_asset": "https://www.bit.edu.cn/images/gb20190805/logo_01.svg",
+      "note": "Official university homepage emblem, original bytes."
+    }
+  ]
+}

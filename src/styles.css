@@ -182,6 +182,14 @@ body { font-family: "Mulish", system-ui, -apple-system, "Segoe UI", sans-serif; 
 .skip-link { position: fixed; left: 16px; top: -90px; z-index: 100; padding: 10px 16px; color: white; background: #3279a3; border-radius: 4px; }
 .skip-link:focus { top: 16px; }
 .publication-header { width: min(1100px, calc(100% - 48px)); margin: 0 auto; padding: 52px 0 28px; text-align: center; }
+.institution-strip { margin: -20px auto 28px; }
+.institution-logos { display: grid; grid-template-columns: repeat(4, max-content); align-items: center; justify-content: center; gap: 38px; margin: 0; padding: 0; list-style: none; }
+.institution-logo { display: flex; height: 96px; align-items: center; justify-content: center; border-radius: 4px; }
+.institution-logo img { display: block; object-fit: contain; height: auto; }
+.institution-logo-deep-robotics img { width: 180px; }
+.institution-logo-zju img { width: 125px; }
+.institution-logo-mit img { width: 106px; }
+.institution-logo-bit img { width: 68px; }
 .publication-header h1 { margin: 0; font-size: clamp(34px, 4.25vw, 49px); line-height: 1.17; font-weight: 800; letter-spacing: -0.026em; color: #303137; }
 .project-name { color: #3279a3; }
 .publication-subtitle { max-width: 940px; margin: 19px auto 0; font-size: clamp(20px, 2.35vw, 26px); font-weight: 500; line-height: 1.4; letter-spacing: -0.015em; }
@@ -361,6 +369,13 @@ a.resource-pill:hover { background: #24242d; }
   .action-video-grid { gap: 14px; }
   .action-swipe-hint { display: block; margin: 9px 0 0; color: #757780; text-align: center; font-size: 0.875rem; }
   .publication-header { padding-top: 34px; padding-bottom: 20px; }
+  .institution-strip { margin-top: -10px; margin-bottom: 22px; }
+  .institution-logos { gap: 24px; }
+  .institution-logo { height: 82px; }
+  .institution-logo-deep-robotics img { width: 150px; }
+  .institution-logo-zju img { width: 108px; }
+  .institution-logo-mit img { width: 94px; }
+  .institution-logo-bit img { width: 60px; }
   .publication-header h1 { font-size: clamp(30px, 5.8vw, 42px); line-height: 1.2; }
   .title-break, .subtitle-break, .desktop-break { display: none; }
   .publication-subtitle { font-size: 20px; }
@@ -390,6 +405,8 @@ a.resource-pill:hover { background: #24242d; }
   .media-caption { font-size: 14px; }
 }
 @media (max-width: 500px) {
+  .institution-logos { grid-template-columns: repeat(2, minmax(0, 170px)); gap: 6px 24px; }
+  .institution-strip { margin-bottom: 24px; }
   .teaser-pair { grid-template-columns: 1fr; gap: 17px; }
   .teaser-pair figcaption { flex-direction: row; gap: 8px; padding-top: 8px; }
   .observation-pair { grid-template-columns: 1fr; gap: 27px; }
