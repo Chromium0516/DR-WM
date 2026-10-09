@@ -186,10 +186,7 @@ body { font-family: "Mulish", system-ui, -apple-system, "Segoe UI", sans-serif; 
 .institution-logos { display: grid; grid-template-columns: repeat(4, max-content); align-items: center; justify-content: center; gap: 38px; margin: 0; padding: 0; list-style: none; }
 .institution-logo { display: flex; height: 96px; align-items: center; justify-content: center; border-radius: 4px; }
 .institution-logo img { display: block; object-fit: contain; height: auto; }
-.institution-logo-deep-robotics { --deep-logo-width: 180px; }
-/* Crop only the blank margins of the supplied 247 x 180 image; keep its pixels unchanged. */
-.deep-robotics-logo-crop { display: block; position: relative; width: var(--deep-logo-width); height: calc(var(--deep-logo-width) * 50 / 134); overflow: hidden; }
-.institution-logo-deep-robotics img { position: absolute; width: calc(var(--deep-logo-width) * 247 / 134); max-width: none; left: calc(var(--deep-logo-width) * -59 / 134); top: calc(var(--deep-logo-width) * -68 / 134); }
+.institution-logo-deep-robotics img { width: 180px; }
 .institution-logo-zju img { width: 125px; }
 .institution-logo-mit img { width: 106px; }
 .institution-logo-bit img { width: 68px; }
@@ -375,7 +372,7 @@ a.resource-pill:hover { background: #24242d; }
   .institution-strip { margin-top: -10px; margin-bottom: 22px; }
   .institution-logos { gap: 24px; }
   .institution-logo { height: 82px; }
-  .institution-logo-deep-robotics { --deep-logo-width: 150px; }
+  .institution-logo-deep-robotics img { width: 150px; }
   .institution-logo-zju img { width: 108px; }
   .institution-logo-mit img { width: 94px; }
   .institution-logo-bit img { width: 60px; }
